@@ -1,5 +1,7 @@
+package Day1;
+
 import java.util.HashMap;
-//解决双数之
+//解决双数之和
 public class test {
    public static int[] nums = {1,2,3,4,5,6,7,8,9,10};
     public static int[] ToSum(int[] nums, int target) {
