@@ -6,5 +6,6 @@ public class Twoadd {
         System.out.println("master_branch");
         System.out.println("test_branch");
         System.out.println("push_test");
+        System.out.println("pull_test");
     }
 }
